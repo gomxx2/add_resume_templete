@@ -202,7 +202,7 @@
     </v-layout>
     <h2 class="pl-4">
       <span>project</span>
-      <span class="green--text">My</span>
+      <span class="green--text">My Own</span>
     </h2>
     <v-layout row justify-center align-center wrap class="mt-4 pt-2">
       <v-dialog
@@ -252,7 +252,7 @@
     </v-layout>
     <h2 class="pl-4">
       <span>project</span>
-      <span class="green--text">handle</span>
+      <span class="green--text">Handle Based My Experience</span>
     </h2>
     <v-layout row justify-center align-center wrap class="mt-4 pt-2">
       <v-dialog
