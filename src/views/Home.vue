@@ -426,10 +426,7 @@ export default {
             tech13: "Apache",
             tech14: "rest API"
           },
-          information: "BLIPCOM is an agile technology services\n\
-          company providing Managed Services, IT solutions,\n\
-          Consultancy\nand highly integrated online platforms\n\
-          that support learning & talent in organisations \n\
+          information: "BLIPCOM is an agile technology services\n\company providing Managed Services, IT solutions,\n\Consultancy\nand highly integrated online platforms\n\ that support learning & talent in organisations\n\
           Project Key Roles: \n \
           - Develop mobile API with python - REST API\n\
           Scheduler MRT Jakarta \n \
@@ -460,12 +457,7 @@ export default {
             tech15: "JSON",
             tech16: "rest API"
           },
-          information: "Barantum.com is offering its services in CRM\n\
-          and IP-PBX development since 2017. And ever since its\n\
-          inception it has aspired to be the best services. They\n \
-          have been working day and night to ensure that every small\n\
-          to medium sized business is able to offer their customers\n\
-          with the best service possible. \n \
+          information: "Barantum.com is offering its services in CRM\n\ and IP-PBX development since 2017. And ever since its\n\ inception it has aspired to be the best services. They\n \ have been working day and night to ensure that every small\n\ to medium sized business is able to offer their customers\n\ with the best service possible. \n \
           Project Key Roles:\n \
           - Develop CRM system \n \
           - Develop API ( Back-End ) using PHP/LUMEN \n \
