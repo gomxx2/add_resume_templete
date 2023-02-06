@@ -84,16 +84,16 @@ export default {
       projects: [
          {
           dialog: false,
-          title: "Euphoric Voyage",
-          git: "https://github.com/EldinZaimovic/euphoric-voyage",
-          demo: "https://www.euphoric-voyage.com/",
+          title: "ngomong.online",
+          git: "",
+          demo: "http://ngomong.online/",
           tech: {
             tech1: "Gatsby",
             tech2: "JavaScript",
             tech3: "SCSS",
             tech4: "Markdown"
           },
-          poster: "https://i.xx.com/9Ww2bvm.png"
+          poster: "./public/img/example_ngomong.png"
         },
         {
           dialog: false,

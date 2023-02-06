@@ -4,7 +4,7 @@
       <h2 class="mb-4 pl-4 pt-2">Education</h2>
       <v-card-text class="py-0">
         <v-timeline align-top dense>
-          <v-timeline-item color="green" small>
+          <!-- <v-timeline-item color="green" small>
             <v-layout pt-3>
               <v-flex xs4>
                 <div class="caption font-weight-bold green--text">JAN 2018 -</div>
@@ -15,17 +15,29 @@
                 <div class="caption mb-2">freeCodeCamp</div>
               </v-flex>
             </v-layout>
-          </v-timeline-item>
+          </v-timeline-item> -->
 
           <v-timeline-item color="green" small>
             <v-layout pt-3>
               <v-flex xs4>
-                <div class="caption font-weight-bold green--text">SEP 2007 -</div>
-                <div class="caption font-weight-bold green--text">MAY 2014</div>
+                <div class="caption font-weight-bold green--text">Issued</div>
+                <div class="caption font-weight-bold green--text">Feb 2020</div>
               </v-flex>
               <v-flex class="pl-2">
-                <strong>Telecommunications Engineering</strong>
-                <div class="caption mb-2">University of East Sarajevo</div>
+                <strong>Microsoft Technology Associate: </strong>
+                <div>Software Development Fundamentals (MTA)</div>
+                <div class="caption mb-2">Microsoft
+                  <v-btn
+                    href="https://drive.google.com/file/d/10qH597x_EBfJjwcyVZUiQBQA3Mt3r_VD/view?usp=share_link"
+                    target="_blank"
+                    color="green"
+                    dark
+                    small
+                  >
+                    Certificate
+                    <v-icon right dark>fas fa-file-download</v-icon>
+                  </v-btn>
+                </div>
               </v-flex>
             </v-layout>
           </v-timeline-item>
@@ -33,12 +45,13 @@
           <v-timeline-item color="green" small>
             <v-layout pt-3>
               <v-flex xs4>
-                <div class="caption font-weight-bold green--text">SEP 2003 -</div>
-                <div class="caption font-weight-bold green--text">MAY 2007</div>
+                <div class="caption font-weight-bold green--text">JAN 2021 -</div>
+                <div class="caption font-weight-bold green--text">AUGUST 2017</div>
               </v-flex>
               <v-flex class="pl-2">
-                <strong>Electrical Technician for Computers</strong>
-                <div class="caption mb-2">Electro-technical school Doboj</div>
+                <strong>Informatics Engineering</strong>
+                <div class="caption">Universitas Advent Indonesia</div>
+                <div class="caption mb-2">Bachelor's degree - 3.79</div>
               </v-flex>
             </v-layout>
           </v-timeline-item>
@@ -52,12 +65,20 @@
           <v-timeline-item color="green" small>
             <v-layout pt-3>
               <v-flex xs4>
-                <div class="caption font-weight-bold green--text">DEC 2016 -</div>
+                <div class="caption font-weight-bold green--text">April 2022 -</div>
                 <div class="caption font-weight-bold green--text">PRESENT</div>
               </v-flex>
               <v-flex class="pl-2">
-                <strong>Freelance Frontend Developer</strong>
-                <div class="caption mb-2">Remote</div>
+                <strong>Back End Developer</strong>
+                <div class="caption mb-2">Blipcom · Remote Full-time - Jakarta Metropolitan Area</div>
+                <p>Project Key Roles<br>
+                - Develop mobile API with python - buid MRT API scheduler<br>
+                - Develop clients website CMS ( Back-End )</p>
+                <p>Technologies: Pytavia (Flask Framework), Ubuntu(Linux),<br>
+                Python,Jinja template, MongoDB, Python Cherrypy,<br>
+                HTML, JSON, ChartJS, Wordpress,CSS, AJAX, jQuery, <br>
+                JavaScript, Apache, Github, Bootstrap, PHP, MySQL<br>
+                Skills: Python (Programming Language)</p>
               </v-flex>
             </v-layout>
           </v-timeline-item>
@@ -65,12 +86,25 @@
           <v-timeline-item color="green" small>
             <v-layout pt-3>
               <v-flex xs4>
-                <div class="caption font-weight-bold green--text">FEB 2018 -</div>
-                <div class="caption font-weight-bold green--text">JULY 2018</div>
+                <div class="caption font-weight-bold green--text">APRIL 2021 -</div>
+                <div class="caption font-weight-bold green--text">APRIL 2022</div>
               </v-flex>
               <v-flex class="pl-2">
-                <strong>Teacher for electrical technicians</strong>
-                <div class="caption mb-2">High School Doboj Istok</div>
+                <strong>Full Stack Developer</strong>
+                <div class="caption mb-2">Barantum.com · Full-time - Jakarta Metropolitan Area</div>                             
+                <p>Project Key Roles<br>
+                - Develop CRM system <br>
+                - Develop API ( Back-End ) using PHP/LUMEN<br>
+                - Develop UX using vue framework, JS, HTML, CSS (Front-End) <br>
+                - handle system flow (Frontend &amp; Backend)<br>
+                - integrated system with outside api provider<br>
+                - handle client requests<br>
+                - Helping other stuff in application development<br>
+                (Front-End or Back-End Programming, Guiding new developer)</p>
+
+                <p>Technologies: Lumen (PHP framework), vue (frontend framwork), <br>
+                Javascript, LDAP, Elastic Search, CSS, HTML, Bootstrap, MySQL,<br>
+                Apache, PHP, Sendinblue, JSON, rest API</p>
               </v-flex>
             </v-layout>
           </v-timeline-item>
@@ -78,12 +112,17 @@
           <v-timeline-item color="green" small>
             <v-layout pt-3>
               <v-flex xs4>
-                <div class="caption font-weight-bold green--text">AUG 2014 -</div>
-                <div class="caption font-weight-bold green--text">APR 2016</div>
+                <div class="caption font-weight-bold green--text">MAY 2020 -</div>
+                <div class="caption font-weight-bold green--text">JULY 2020</div>
               </v-flex>
               <v-flex class="pl-2">
-                <strong>IT Technician</strong>
-                <div class="caption mb-2">MFS-EMMAUS</div>
+                <strong>Web Developer</strong>
+                <div class="caption mb-2">Universitas Advent Indonesia · Internship</div>
+                <p>Project Key Roles<br>
+                - Participate in Develop Registration System</p>
+
+                <p>Technologies: Laravel (PHP framework),<br>
+                Jquery, Javascript, CSS, HTML, Bootstrap, MySQL, Apache, PHP</p>
               </v-flex>
             </v-layout>
           </v-timeline-item>
@@ -91,7 +130,7 @@
       </v-card-text>
     </v-flex>
     <v-layout row justify-center align-center wrap class="mt-4 pt-2">
-      <v-flex xs12 sm12 md4 lg5 xl5 class="mx-2 pt-4">
+      <!-- <v-flex xs12 sm12 md4 lg5 xl5 class="mx-2 pt-4">
         <h2>
           <span>Design</span>
 
@@ -117,10 +156,10 @@
         <v-progress-linear v-model="buffer5" :buffer-value="bufferValue" color="green" height="16"></v-progress-linear>
         <strong>JavaScript</strong>
         <v-progress-linear v-model="buffer6" :buffer-value="bufferValue" color="green" height="16"></v-progress-linear>
-      </v-flex>
+      </v-flex> -->
       <div class="mt-4 pt-2">
         <v-btn
-          href="https://docs.google.com/document/d/1WSR42FEgUahJuR_RArW1wz7TfUBlgj13zekRidmQgs4/edit?usp=sharing"
+          href="https://drive.google.com/file/d/1qneDDIOLD-F1d9-bR34gdSeiljaaLym8/view?usp=sharing"
           target="_blank"
           color="green"
           dark
