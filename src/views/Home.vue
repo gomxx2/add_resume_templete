@@ -290,7 +290,7 @@
               <v-chip  color="green" text-color="white">{{value}}</v-chip>
               <!-- <v-chip color="green" text-color="white">{{project.tech.tech2}}</v-chip> -->
             </span>
-            <div  class="mt-4 pt-2 pre-formatted" >{{ project.information }}</div>
+            <div  class="mt-4 pt-2 pre-formatted " >{{ project.information }}</div>
             <!-- <v-chip color="green" text-color="white">{{project.tech.tech3}}</v-chip>
             <v-chip color="green" text-color="white">{{project.tech.tech4}}</v-chip> -->
           </v-card-text>
@@ -426,12 +426,10 @@ export default {
             tech13: "Apache",
             tech14: "rest API"
           },
-          information: "BLIPCOM is an agile technology services\n\company providing Managed Services, IT solutions,\n\Consultancy\nand highly integrated online platforms\n\ that support learning & talent in organisations\n\
+          information: "BLIPCOM is \nan agile technology services company providing Managed Services, IT solutions, Consultancy\nand highly integrated online platforms that support learning & talent in organisationsn \n \
           Project Key Roles: \n \
-          - Develop mobile API with python - REST API\n\
-          Scheduler MRT Jakarta \n \
-          - Develop clients website ( Back-End ) \n\
-          CMS MRT Jakarta",
+          - Develop mobile API with python - REST API Scheduler MRT Jakarta \n \
+          - Develop clients website ( Back-End ) - CMS MRT Jakarta",
           poster: require("../../public/img/blipcom_ex.png")
         },
         {
@@ -457,7 +455,7 @@ export default {
             tech15: "JSON",
             tech16: "rest API"
           },
-          information: "Barantum.com is offering its services in CRM\n\ and IP-PBX development since 2017. And ever since its\n\ inception it has aspired to be the best services. They\n \ have been working day and night to ensure that every small\n\ to medium sized business is able to offer their customers\n\ with the best service possible. \n \
+          information: "Barantum.com is offering its services in CRM\nand IP-PBX development since 2017. And ever since its inception it has aspired to be the best services.\nThey have been working day and night to ensure that every small to medium sized business is able to offer their customers with the best service possible. \n \
           Project Key Roles:\n \
           - Develop CRM system \n \
           - Develop API ( Back-End ) using PHP/LUMEN \n \
@@ -465,8 +463,7 @@ export default {
           - handle system flow (Frontend & Backend) \n \
           - integrated system with outside api provider \n \
           - handle client requests \n \
-          - Helping other stuff in application development (Front-End\n\
-            or Back-End Programming, Guiding new developer)",
+          - Helping other stuff in application development (Front-End or Back-End Programming, Guiding new developer)",
           poster: require("../../public/img/barantum_ex.png")
         },
         {
@@ -509,7 +506,7 @@ export default {
 </script>
 <style>
 .pre-formatted {
-  white-space: pre;
+  white-space: pre-wrap;
 }
 
 @keyframes rocking {
