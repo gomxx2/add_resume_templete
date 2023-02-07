@@ -12,7 +12,7 @@
             <v-list-tile-title>RESUME</v-list-tile-title>
           </v-list-tile-content>
         </v-list-tile>
-        <v-list-tile active-class="green--text" to="/services">
+        <!-- <v-list-tile active-class="green--text" to="/services">
           <v-list-tile-content>
             <v-list-tile-title>SERVICES</v-list-tile-title>
           </v-list-tile-content>
@@ -26,7 +26,7 @@
           <v-list-tile-content>
             <v-list-tile-title>BLOG</v-list-tile-title>
           </v-list-tile-content>
-        </v-list-tile>
+        </v-list-tile> -->
         <v-list-tile active-class="green--text" to="/contact">
           <v-list-tile-content>
             <v-list-tile-title>CONTACT</v-list-tile-title>
