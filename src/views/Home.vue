@@ -49,13 +49,13 @@
               </h3>
               <div>
                 <p>
-                  halo saya Gomgom Sihotang,
-                  Saya adalah spesialis
+                  Hi, my name Gomgom Sihotang.
+                  I am a
                   <span
                     class="green--text font-weight-bold"
-                  >backend enginner</span>. Saat ini saya bekerja di salah satu perusahaan
-                  software house di Jakarta. Selain itu saya cukup aktif membuat konten
-                  pembelajaran di youtube dan akun tiktok saya.
+                  >backend enginner</span>.. Currently I work in a software house company in Jakarta, Indonesia. 
+                  Apart from that, I am quite active in creating learning content on 
+                  my YouTube and TikTok accounts, and also doing some of my freelance work.
                 </p>
               </div>
             </div>
@@ -426,7 +426,7 @@ export default {
             tech13: "Apache",
             tech14: "rest API"
           },
-          information: "BLIPCOM is \nan agile technology services company providing Managed Services, IT solutions, Consultancy\nand highly integrated online platforms that support learning & talent in organisationsn \n \
+          information: "BLIPCOM is \nan agile technology services company providing Managed Services, IT solutions, Consultancy\nand highly integrated online platforms that support learning & talent in organisation\n \
           Project Key Roles: \n \
           - Develop mobile API with python - REST API Scheduler MRT Jakarta \n \
           - Develop clients website ( Back-End ) - CMS MRT Jakarta",
